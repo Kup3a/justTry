@@ -1,1 +1,1 @@
-это описание проекта
+There's project's description.
